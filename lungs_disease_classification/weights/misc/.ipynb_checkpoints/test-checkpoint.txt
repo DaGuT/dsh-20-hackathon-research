@@ -1,0 +1,4 @@
+d = {0: 'helloworld',j
+    1: 'fold0123, MSE loss',
+    2: 'fold0123, BCE loss',
+    3: 'fold0124, BCE loss'}

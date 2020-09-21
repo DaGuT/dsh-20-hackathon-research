@@ -1,0 +1,1 @@
+nohup tensorboard --logdir=.././logs/tensorboard/train/2019-05-28_20-46 &
